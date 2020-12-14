@@ -27,3 +27,11 @@ _TODO: explain the code here_
 
 ### Manufacturer specific codes
 _TODO: explain about the specific codes of Philips and LG here. Also give hints on how to detect your own codes (using the ReceiverDumpV2 script)._
+
+
+# Credits
+
+Credits go to:
+- [Ken Shirriff](https://github.com/shirriff) for creating the Arduino-IRremote library, and [all the contributors](https://github.com/Arduino-IRremote/Arduino-IRremote/blob/master/Contributors.md) for improving/expanding his work.
+- [Mitchell Tucker](https://github.com/MitchTODO) for his [IR-repeater script](https://github.com/MitchTODO/Arduino-IR-repeater/blob/master/irRepeater.ino).
+- dzacace for [showing how to send Samsung signals](https://forum.arduino.cc/index.php?topic=591256.0) using the Arduino-IRremote library.
